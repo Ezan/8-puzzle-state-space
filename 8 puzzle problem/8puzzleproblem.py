@@ -6,9 +6,6 @@ graph=pydot.Dot(graph_type='digraph')
 
 
 class Puzzle:
-    # goal_state=[2,8,3,
-    #             0,1,6,
-    #             7,5,4]
 
     goal_state=[2,8,0,
                 1,6,3,
